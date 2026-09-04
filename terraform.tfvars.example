@@ -1,0 +1,9 @@
+location            = "Central India"
+resource_group_name = "rg-vm-compliance"
+vm_name             = "vm-compliance-01"
+
+admin_username = "azureadmin"
+
+ssh_public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGSyU2O5BuKaN+fm2w5gkzDi4LvXhij0/oFqO1RUJ7JN azure-vmss-web"
+
+alert_email = "r3@isstechnologies.in"
